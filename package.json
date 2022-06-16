@@ -3,9 +3,7 @@
   "description": "",
   "version": "1.0.0",
   "main": "index.js",
-  "engines": {
-    "node": "14.x"
-  },
+ 
   "scripts": {
     "start": "node web3walletBackend/createWallet.js  && cd web3walletFrontend && npm start"
   },
