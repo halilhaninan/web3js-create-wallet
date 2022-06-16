@@ -1,0 +1,22 @@
+{
+  "folders": [
+	{
+		"path": "../../../../bootstrap"
+	},
+	{
+		"path": "../../../../eksi kopyası"
+	},
+	{
+		"path": "../../.."
+	},
+	{
+		"path": "../../../../react/quiz"
+	},
+	{
+		"path": "../../../../pancakeswapbot"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "bootstrap"
+  }
+}

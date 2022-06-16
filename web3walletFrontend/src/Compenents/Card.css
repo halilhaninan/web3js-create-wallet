@@ -1,0 +1,97 @@
+#flippy {
+  max-width: 300px;
+  min-width: 25%;
+  max-height: 25%;
+  min-height: 25%;
+  margin-top: 30px;
+  margin-left: 0px;
+}
+#flippy:hover {
+  -ms-transform: scale(1.03); /* IE 9 */
+  -webkit-transform: scale(1.03); /* Safari 3-8 */
+  transform: scale(1.03);
+}
+#front-side {
+  border: 2px solid gray;
+}
+
+#logo {
+  width: 50px;
+  margin-right: 50px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+#header {
+  margin: -16px;
+  background-color: #191919;
+}
+
+#description {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  display: flex;
+  align-items: center;
+  color: white;
+}
+#imglogo {
+  width: 55%;
+  height: 15%;
+}
+#logotext {
+  padding-right: auto;
+
+  font-size: 12px;
+}
+#information-description {
+  color: #c5c6c5;
+  font-size: 14px;
+  margin-bottom: 5px;
+  display: flex;
+
+  word-break: break-all;
+}
+
+#aciklama {
+  margin-left: 2px;
+  color: #c5c6c5;
+  font-size: 13px;
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+#button-info {
+  width: 100%;
+  color: white;
+  border-color: white;
+}
+#button-info:hover {
+  color: #ff8f4f;
+  border-color: #ff8f4f;
+  background-color: transparent;
+  -ms-transform: scale(1.1); /* IE 9 */
+  -webkit-transform: scale(1.1); /* Safari 3-8 */
+  transform: scale(1.1);
+}
+#button-go {
+  width: 100%;
+  color: #221d1a;
+  background-color: #ff8f4f;
+}
+#button-go:hover {
+  -ms-transform: scale(1.1); /* IE 9 */
+  -webkit-transform: scale(1.1); /* Safari 3-8 */
+  transform: scale(1.1);
+}
+#features-list {
+  font-size: 14px;
+  color: gray;
+}
+#info {
+  max-height: 500px;
+}
+#info-list {
+  font-weight: bold;
+  padding-left: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+}

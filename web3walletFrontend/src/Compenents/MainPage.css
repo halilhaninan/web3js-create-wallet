@@ -1,0 +1,140 @@
+#wallpaper {
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 25px;
+  margin-bottom: 80px;
+}
+
+#welcome {
+  color: gray;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+#welcomeh1 {
+  color: whitesmoke;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+}
+
+#cwright {
+  padding: 5px;
+  color: rgb(206, 204, 204);
+  word-break: break-all;
+}
+
+#cwleft {
+  padding: 5px;
+  color: white;
+  word-break: break-all;
+}
+#cwleft1 {
+  color: rgb(228, 225, 225);
+  font-size: 16.2px;
+  font-weight: bolder;
+  font-style: oblique;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 22px;
+  align-items: right;
+}
+#cwsubmit {
+  background-color: #ff8f4f;
+}
+#cwlefttext {
+  width: auto;
+}
+#cwsubmit:hover {
+  -ms-transform: scale(1.1); /* IE 9 */
+  -webkit-transform: scale(1.1); /* Safari 3-8 */
+  transform: scale(1.1);
+}
+#cw2 {
+  width: 600px;
+  padding-right: 190px;
+  padding-bottom: 20px;
+}
+
+#head {
+  font-family: monospace;
+  color: #fff;
+  margin: auto;
+  padding: 15px;
+  font-size: 20px;
+  text-align: center;
+}
+#bar {
+  text-align: center;
+  width: 52vw;
+  height: 25px;
+  background-color: #dad9d9;
+  margin: 0 auto;
+  font-family: monospace;
+  padding: auto;
+  float: none;
+  border-radius: 5px;
+}
+#red {
+  background-color: #e94b35;
+  border-radius: 100%;
+  width: 15px;
+  height: 15px;
+  margin: 0 auto;
+  left: -47%;
+  bottom: -20%;
+  position: relative;
+}
+#yellow {
+  background-color: #f0f000;
+  border-radius: 100%;
+  width: 15px;
+  height: 15px;
+  margin: 0 auto;
+  left: -44%;
+  bottom: 40%;
+  position: relative;
+  display: block;
+}
+#green {
+  background-color: #1aaf5c;
+  border-radius: 100%;
+  width: 15px;
+  height: 15px;
+  margin: 0 auto;
+  left: -41%;
+  bottom: 99%;
+  position: relative;
+  display: block;
+}
+#screen {
+  background-color: #33485e;
+  width: 52vw;
+  height: fit-content;
+  border-radius: 2%;
+  margin: 0 auto;
+  padding: 1px;
+  padding-bottom: 30px;
+}
+.font {
+  color: #fff;
+  font-family: monospace;
+  font-size: 15px;
+  text-align: left;
+  position: static;
+}
+#walletadresspw {
+  font-size: 14px;
+}
+
+#wallet {
+  margin-left: 25px;
+  margin-bottom: 0px;
+  font-size: 14px;
+  font-weight: bold;
+}
+#pwkey {
+  margin-top: 250px;
+  margin-left: 25px;
+  font-size: 14px;
+  font-weight: bold;
+}
