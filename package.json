@@ -7,7 +7,7 @@
     "node": "14.x"
   },
   "scripts": {
-    "start": "node createWallet.js "
+    "start": "node web3walletBackend/createWallet.js "
   },
   "repository": {
     "type": "git",
